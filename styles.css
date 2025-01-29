@@ -24,7 +24,7 @@ section{
   background: #Flight green;
   border-color:  green;
   border-style: solid;
-  border-width: 5px 10px; /* 5px top and bottom, 20px on the sides */
+  border-width: 5px 10px; 
   margin: 50px;
   text-decoration-line: ;
   border-right: thick solid green;
@@ -41,7 +41,7 @@ header {
     font-variant: small-caps.
 }
 aside{
-    border-right:10px dark grey;
+    border-right:7px dark grey;
     height: 4x;
     position: right;
     left: 50%;
@@ -66,6 +66,9 @@ aside::first-line {
 
      footer a:link{
       color: grey;
+       text-align: right;
+
+       
      }
 
 
